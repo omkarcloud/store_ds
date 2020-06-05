@@ -1,0 +1,18 @@
+name: store_ds
+description: An awesome Flutter package to manage state of program declaratively and functionally.
+version: 1.0.0
+author: Chetan Jain
+homepage: https://github.com/Chetan11-dev/store_ds
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
